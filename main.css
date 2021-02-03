@@ -157,7 +157,7 @@
 }
 .unreadMentionsIndicatorBottom-BXS58x > .unreadMentionsBar-1VrBNe:active { background: linear-gradient(#0000, #f04747);}
 
-.unreadMentionsBar-1VrBNe > .text-2e2ZyG { display: none; }
+.unreadMentionsBar-1VrBNe > .text-2e2ZyG { display: block; }
 
 /* --- ✏️ PARTIE SALONS --- */
 
