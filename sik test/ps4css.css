@@ -79,7 +79,7 @@
 /*Not needed, but I like keeping them here for posterity*/
 /*.ds4 .quadrant{
 position: absolute;
-background: url(ps4-assets/player-n.svgz);
+background: url(base.png);
 height: 17px;
 width: 111px;
 top: 140px;
